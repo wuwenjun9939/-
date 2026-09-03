@@ -1,0 +1,118 @@
+# Translation of Plugins - WPS Hide Login - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - WPS Hide Login - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-01 02:58:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.9\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - WPS Hide Login - Stable (latest release)\n"
+
+#. Author of the plugin
+msgid "WPServeur, NicolasKulka, wpformation"
+msgstr "WPServeur, NicolasKulka, wpformation"
+
+#: classes/plugin.php:417
+msgid "Redirect URL when someone tries to access the wp-login.php page and the wp-admin directory while not logged in."
+msgstr "当有人试图利用/wp-login.php和/wp-admin登录时，重定向到此URL。"
+
+#: classes/plugin.php:402
+msgid "Protect your website by changing the login URL and preventing access to the wp-login.php page and the wp-admin directory to non-connected people."
+msgstr "通过更改登录URL来防止陌生用户访问 wp-login.php 页面和 wp-admin 目录以保护您的网站。"
+
+#: classes/plugin.php:373
+msgid "WPS Limit Login"
+msgstr "WPS Limit Login"
+
+#: classes/plugin.php:373
+msgid "and"
+msgstr "和"
+
+#: classes/plugin.php:372
+msgid "WPS Cleaner"
+msgstr "WPS Cleaner"
+
+#: classes/plugin.php:371
+msgid "WPS Bidouille"
+msgstr "WPS Bidouille"
+
+#: classes/plugin.php:371 classes/plugin.php:372
+msgid "the plugin"
+msgstr "插件"
+
+#: classes/plugin.php:370
+msgid "Discover our other plugins:"
+msgstr "了解我们的其他插件："
+
+#: classes/plugin.php:369
+msgid "WordPress specialized hosting"
+msgstr "WordPress专用主机"
+
+#: classes/plugin.php:296
+msgid "Redirection url"
+msgstr "重定向链接"
+
+#: classes/plugin.php:245
+msgid "Redirection url default"
+msgstr "默认跳转地址"
+
+#. Author URI of the plugin
+msgid "https://wpserveur.net"
+msgstr "https://wpserveur.net"
+
+#: classes/plugin.php:521
+msgid "This has been disabled"
+msgstr "已经被禁用"
+
+#. Description of the plugin
+msgid "Protect your website by changing the login URL and preventing access to wp-login.php page and wp-admin directory while not logged-in"
+msgstr "通过更改登录URL并在未登录时阻止访问wp-login.php页面和wp-admin目录来保护您的网站"
+
+#: classes/plugin.php:479
+msgid "This feature is not enabled."
+msgstr "此功能未启用。"
+
+#: classes/plugin.php:442 classes/plugin.php:446
+msgid "Settings"
+msgstr "设置"
+
+#: classes/plugin.php:431
+msgid "Your login page is now here: <strong><a href=\"%1$s\">%2$s</a></strong>. Bookmark this page!"
+msgstr "您的登录页面地址现在是: <strong><a href=\"%1$s\">%2$s</a></strong>. 请保存这个地址"
+
+#: classes/plugin.php:382
+msgid "To set a networkwide default, go to <a href=\"%s\">Network Settings</a>."
+msgstr "要让所有站点默认此设置，请点击<a href=\"%s\">网络设置</a>."
+
+#: classes/plugin.php:288
+msgid "Login url"
+msgstr "登录地址"
+
+#: classes/plugin.php:243
+msgid "Networkwide default"
+msgstr "所有站点默认值"
+
+#: classes/plugin.php:240 classes/plugin.php:369
+msgid "Need help? Try the <a href=\"%1$s\" target=\"_blank\">support forum</a>. This plugin is kindly brought to you by <a href=\"%2$s\" target=\"_blank\">WPServeur</a>"
+msgstr "需要帮忙吗? 试试 <a href=\"%1$s\" target=\"_blank\">支持论坛</a>.，这个插件是由<a href=\"%2$s\" target=\"_blank\">WPServeur</a>免费提供的"
+
+#: classes/plugin.php:239
+msgid "This option allows you to set a networkwide default, which can be overridden by individual sites. Simply go to to the site’s permalink settings to change the url."
+msgstr "此选项允许您设置网络范围默认值，可以由各个站点覆盖。 只需转到网站的永久链接设置即可更改地址。"
+
+#: classes/plugin.php:221
+msgid "WPS Hide Login could not be activated because you already have Rename wp-login.php active. Please uninstall rename wp-login.php to use WPS Hide Login"
+msgstr "无法激活wps hide login，因为您已经激活了rename wp-login.php。请停用rename wp-login.php以使用wps hide login"
+
+#. Plugin Name of the plugin
+#: classes/plugin.php:215 classes/plugin.php:238 classes/plugin.php:703
+#: classes/plugin.php:712
+msgid "WPS Hide Login"
+msgstr "WPS隐藏登录"
+
+#: classes/plugin.php:215
+msgid "Please upgrade to the latest version of WordPress to activate"
+msgstr "请升级到最新版本的WordPress以激活"

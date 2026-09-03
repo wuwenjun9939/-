@@ -1,0 +1,32 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-20 01:18:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-20 01:18:22 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 0 0 264
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-20 02:51:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-20 02:51:53 192.168.1.6 GET /robots.txt - 80 - 192.168.1.6 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - 404 0 2 265
+2024-02-20 02:51:55 192.168.1.6 GET /sitemap - 80 - 192.168.1.6 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - 404 0 2 388
+2024-02-20 02:52:26 192.168.1.6 GET /sitemap.ashx - 80 - 192.168.1.6 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - 404 0 0 55
+2024-02-20 02:52:34 192.168.1.6 GET /sitemap.txt - 80 - 192.168.1.6 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - 404 0 2 0
+2024-02-20 02:52:42 192.168.1.6 GET /sitemap.xml - 80 - 192.168.1.6 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - 404 0 2 0
+2024-02-20 02:53:01 192.168.1.6 GET /sitemap.xml.gz - 80 - 192.168.1.6 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - 404 0 2 0
+2024-02-20 02:53:09 192.168.1.6 GET /sitemap_index.xml - 80 - 192.168.1.6 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - 404 0 2 0
+2024-02-20 02:53:21 192.168.1.6 GET /sitemap_index.xml.gz - 80 - 192.168.1.6 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - 404 0 2 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-20 05:23:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-20 05:23:52 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 0 0 261
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-20 09:02:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-20 09:02:37 192.168.1.6 GET /robots.txt - 80 - 192.168.1.6 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) - 404 0 2 355
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-20 09:22:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-20 09:22:13 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 0 0 5

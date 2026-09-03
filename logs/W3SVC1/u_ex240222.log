@@ -1,0 +1,33 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-22 09:09:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-22 09:09:53 192.168.1.6 GET /robots.txt - 80 - 192.168.1.6 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/116.0.1938.76+Safari/537.36 - 404 0 2 539
+2024-02-22 09:10:03 192.168.1.6 GET /sitemaps.xml - 80 - 192.168.1.6 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/116.0.1938.76+Safari/537.36 - 404 0 2 0
+2024-02-22 09:25:04 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 0 0 5
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-22 09:57:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-22 09:57:10 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/123.0.0.0+Safari/537.36+Edg/123.0.0.0 https://www.mcbbs.xin/ 200 0 0 583
+2024-02-22 09:57:10 192.168.1.6 GET /Virus/rule.js - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/123.0.0.0+Safari/537.36+Edg/123.0.0.0 https://4l8511a292.oicp.vip/ 404 0 2 20
+2024-02-22 09:57:10 192.168.1.6 GET /tv/cctv.m3u - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/123.0.0.0+Safari/537.36+Edg/123.0.0.0 https://4l8511a292.oicp.vip/ 206 0 0 1
+2024-02-22 09:57:10 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/123.0.0.0+Safari/537.36+Edg/123.0.0.0 - 200 0 0 0
+2024-02-22 10:06:18 192.168.1.6 GET /sitemaps.xml - 80 - 192.168.1.6 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/116.0.1938.76+Safari/537.36 - 404 0 2 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-22 11:11:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-22 11:11:09 192.168.1.6 GET /Virus/ - 80 - 192.168.1.6 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/116.0.1938.76+Safari/537.36 - 304 0 0 550
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-22 12:10:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-22 12:10:54 192.168.1.6 GET /pifu/1.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.11+(KHTML,+like+Gecko)+Chrome/23.0.1271.95+Safari/537.11 https://github.com/jonafanho/Slideshow 200 0 0 220
+2024-02-22 12:13:47 192.168.1.6 GET /pifu/1.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.11+(KHTML,+like+Gecko)+Chrome/23.0.1271.95+Safari/537.11 https://github.com/jonafanho/Slideshow 304 0 0 0
+2024-02-22 12:19:42 192.168.1.6 GET /pifu/1.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.11+(KHTML,+like+Gecko)+Chrome/23.0.1271.95+Safari/537.11 https://github.com/jonafanho/Slideshow 304 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-22 13:23:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-22 13:23:50 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 0 0 167

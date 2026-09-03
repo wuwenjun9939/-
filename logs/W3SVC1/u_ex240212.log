@@ -1,0 +1,19 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-02-12 10:35:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-02-12 10:35:57 192.168.1.6 GET / - 80 - 192.168.1.109 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Mobile+Safari/537.36+EdgA/120.0.0.0 - 200 0 0 894
+2024-02-12 10:35:57 192.168.1.6 GET /Virus/rule.js - 80 - 192.168.1.109 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Mobile+Safari/537.36+EdgA/120.0.0.0 http://192.168.1.6/ 404 0 2 270
+2024-02-12 10:35:57 192.168.1.6 GET /tv/cctv.m3u - 80 - 192.168.1.109 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Mobile+Safari/537.36+EdgA/120.0.0.0 http://192.168.1.6/ 206 0 0 336
+2024-02-12 10:36:05 192.168.1.6 GET /favicon.ico - 80 - 192.168.1.109 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Mobile+Safari/537.36+EdgA/120.0.0.0 http://192.168.1.6/ 200 0 0 1261
+2024-02-12 10:36:18 192.168.1.6 GET /craft/ - 80 - 192.168.1.109 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Mobile+Safari/537.36+EdgA/120.0.0.0 - 500 0 1413 163
+2024-02-12 10:36:26 192.168.1.6 GET /craft/ - 80 - 192.168.1.109 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Mobile+Safari/537.36+EdgA/120.0.0.0 - 500 0 1413 30
+2024-02-12 10:41:01 192.168.1.6 GET /craft/ - 80 - 192.168.1.109 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Mobile+Safari/537.36+EdgA/120.0.0.0 - 500 0 1413 346
+2024-02-12 10:41:12 192.168.1.6 GET /craft/install.php - 80 - 192.168.1.109 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Mobile+Safari/537.36+EdgA/120.0.0.0 - 404 0 2 248
+2024-02-12 10:41:12 192.168.1.6 GET /404.html - 80 - 192.168.1.109 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Mobile+Safari/537.36+EdgA/120.0.0.0 - 200 0 0 193
+2024-02-12 10:44:03 192.168.1.6 GET /dvd - 80 - 192.168.1.109 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Mobile+Safari/537.36+EdgA/120.0.0.0 - 404 0 2 442
+2024-02-12 10:44:13 192.168.1.6 GET /404.html - 80 - 192.168.1.109 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Mobile+Safari/537.36+EdgA/120.0.0.0 - 304 0 0 159
+2024-02-12 10:57:57 192.168.1.6 GET /404.html - 80 - 192.168.1.109 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Mobile+Safari/537.36+EdgA/120.0.0.0 - 304 0 0 6
+2024-02-12 10:58:01 192.168.1.6 GET /404.html - 80 - 192.168.1.109 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Mobile+Safari/537.36+EdgA/120.0.0.0 - 304 0 0 3
+2024-02-12 10:58:05 192.168.1.6 GET /404.html - 80 - 192.168.1.109 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Mobile+Safari/537.36+EdgA/120.0.0.0 - 304 0 0 3
+2024-02-12 10:58:07 192.168.1.6 GET /404.html - 80 - 192.168.1.109 Mozilla/5.0+(Linux;+Android+10;+K)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Mobile+Safari/537.36+EdgA/120.0.0.0 - 304 0 0 2

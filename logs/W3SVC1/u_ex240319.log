@@ -1,0 +1,77 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-19 05:22:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-19 05:22:03 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 0 995 563
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-19 05:47:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-19 05:47:27 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 473
+2024-03-19 05:58:18 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 22109
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-19 06:47:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-19 06:47:52 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 429
+2024-03-19 07:00:31 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 21105
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-19 07:39:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-19 07:39:10 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://www.google.com/ 304 0 0 365
+2024-03-19 07:39:26 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 304 0 0 0
+2024-03-19 07:39:29 192.168.1.6 GET /image/1.jpg - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 1
+2024-03-19 07:39:29 192.168.1.6 GET /image/1.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 1
+2024-03-19 07:39:44 192.168.1.6 GET /logs - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 301 0 0 1
+2024-03-19 07:39:47 192.168.1.6 GET /image/2.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 64 16669
+2024-03-19 07:39:49 192.168.1.6 GET /logs - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 301 0 0 0
+2024-03-19 07:39:57 192.168.1.6 GET /logs/ - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 - 200 0 0 1
+2024-03-19 07:39:59 192.168.1.6 GET /logs/w3svc1/u_ex240319.log - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/logs/ 200 0 0 0
+2024-03-19 07:40:29 192.168.1.6 GET /logs/w3svc1/u_ex240319.log - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/logs/ 200 0 0 0
+2024-03-19 07:40:40 192.168.1.6 GET /logs/w3svc1/u_ex240319.log - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/logs/ 304 0 0 0
+2024-03-19 07:40:47 192.168.1.6 GET /image/1.jpg - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 1
+2024-03-19 07:40:47 192.168.1.6 GET /image/1.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 0
+2024-03-19 07:41:19 192.168.1.6 GET /image/2.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 31209
+2024-03-19 07:43:21 192.168.1.6 GET /music/荡起双桨DJ版.mp3 - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 - 200 0 995 182
+2024-03-19 07:43:28 192.168.1.6 GET /music/荡起双桨DJ版.mp3 - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/music/%E8%8D%A1%E8%B5%B7%E5%8F%8C%E6%A1%A8DJ%E7%89%88.mp3 206 0 995 7813
+2024-03-19 07:47:19 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/logs/ 304 0 0 1
+2024-03-19 07:49:08 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 1
+2024-03-19 08:02:09 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 21095
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-19 08:47:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-19 08:47:26 192.168.1.6 HEAD /hips/Hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/115.0.0.0+Safari/537.36 - 200 0 0 242
+2024-03-19 08:47:50 192.168.1.6 GET /hips/Hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:109.0)+Gecko/20100101+Firefox/115.0 - 200 0 0 23130
+2024-03-19 08:50:16 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 183
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-19 09:51:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-19 09:51:20 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 662
+2024-03-19 09:58:38 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 - 304 0 0 1
+2024-03-19 09:58:38 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 - 200 0 0 0
+2024-03-19 09:58:41 192.168.1.6 GET /Hips - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 301 0 0 1
+2024-03-19 09:58:41 192.168.1.6 GET /Hips/ - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 - 200 0 0 1
+2024-03-19 09:58:41 192.168.1.6 GET /image/a1vst-f8eju-001.ico - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/Hips/ 200 0 0 3
+2024-03-19 09:58:41 192.168.1.6 GET /Hips/update.txt - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/Hips/ 200 0 0 1
+2024-03-19 09:58:41 192.168.1.6 GET /Hips/lsbd.txt - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/Hips/ 200 0 0 0
+2024-03-19 09:58:46 192.168.1.6 HEAD /Hips/Hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 - 200 0 0 0
+2024-03-19 09:58:51 192.168.1.6 GET /Hips/Hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/Hips/ 200 0 64 5082
+2024-03-19 09:58:59 192.168.1.6 GET /logs - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 301 0 0 0
+2024-03-19 09:59:09 192.168.1.6 GET /logs/ - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 - 200 0 0 1
+2024-03-19 09:59:21 192.168.1.6 GET /Hips/Hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 - 200 0 0 31098
+2024-03-19 09:59:22 192.168.1.6 GET /logs/ - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 - 200 0 0 1
+2024-03-19 09:59:34 192.168.1.6 GET /logs/w3svc1/u_ex240319.log - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/logs/ 200 0 0 1
+2024-03-19 09:59:38 192.168.1.6 GET /logs/w3svc1/u_ex240319.log - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/logs/ 200 0 0 11
+2024-03-19 10:00:12 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-19 10:00:14 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Go-http-client/1.1 - 200 0 64 744
+2024-03-19 10:00:48 192.168.1.6 HEAD /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/112.0.0.0+Safari/537.36+AppEngine-Google;+(+http://code.google.com/appengine;+appid:+s~virustotalcloud) http://4l8511a292.oicp.vip 200 0 0 1
+2024-03-19 10:01:09 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/114.0.0.0+Safari/537.36+Edg/114.0.1823.51 - 200 0 64 8981
+2024-03-19 10:01:12 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/114.0.0.0+Safari/537.36+Edg/114.0.1823.51 - 200 0 64 9828
+2024-03-19 10:01:17 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/112.0.0.0+Safari/537.36+AppEngine-Google;+(+http://code.google.com/appengine;+appid:+s~virustotalcloud) http://4l8511a292.oicp.vip 200 0 64 19166
+2024-03-19 10:01:22 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(X11;+Linux+x86_64;+rv:96.0)+Gecko/20100101+Firefox/96.0 - 200 0 64 22674
+2024-03-19 10:01:22 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Windows+Mobile+10;+Android+10.0;+Microsoft;+Lumia+950XL)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Mobile+Safari/537.36+Edge/40.15254.603 - 200 0 0 38139
+2024-03-19 10:01:40 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+Trident/6.0) - 200 0 64 10853
+2024-03-19 10:02:17 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 1

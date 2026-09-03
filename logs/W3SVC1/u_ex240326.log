@@ -1,0 +1,283 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-25 17:19:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-25 17:19:57 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 0 995 397
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-25 17:55:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-25 17:55:16 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 22127
+2024-03-25 17:57:35 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 209
+2024-03-25 17:58:02 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-25 17:58:13 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-25 18:30:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-25 18:30:03 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Go-http-client/1.1 - 200 0 0 21113
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-25 20:51:17
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-25 20:51:17 192.168.1.6 GET /robots.txt - 80 - 192.168.1.6 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 0 0 146
+2024-03-25 20:51:17 192.168.1.6 GET /image/1.jpg - 80 - 192.168.1.6 Googlebot-Image/1.0 - 200 0 0 1
+2024-03-25 21:06:15 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 24116
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-25 22:43:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-25 22:43:52 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 344
+2024-03-25 22:43:56 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-25 22:43:57 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-25 23:19:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-25 23:19:21 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 21109
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-26 00:30:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-26 00:30:03 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 23243
+2024-03-26 00:30:54 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 193
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-26 01:21:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-26 01:21:16 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 0 64 444
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-26 01:52:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-26 01:52:39 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 19119
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-26 03:50:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-26 03:50:04 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 - 200 0 0 465
+2024-03-26 03:50:04 192.168.1.6 GET /styels.css - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 4
+2024-03-26 03:50:04 192.168.1.6 GET /all.js - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 4
+2024-03-26 03:51:19 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 206 0 0 1
+2024-03-26 03:51:19 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 206 0 995 138
+2024-03-26 03:51:25 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 206 0 995 96
+2024-03-26 03:51:27 192.168.1.6 GET /Hips - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 301 0 0 24
+2024-03-26 03:51:31 192.168.1.6 GET /Hips/ - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 - 200 0 0 21
+2024-03-26 03:51:31 192.168.1.6 GET /image/a1vst-f8eju-001.ico - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/Hips/ 200 0 0 1
+2024-03-26 03:51:31 192.168.1.6 GET /Hips/hips.js - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/Hips/ 200 0 0 0
+2024-03-26 03:51:31 192.168.1.6 GET /Hips/update.txt - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/Hips/ 200 0 0 13
+2024-03-26 03:51:31 192.168.1.6 GET /Hips/lsbd.txt - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/Hips/ 200 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-26 04:08:15
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-26 04:08:15 192.168.1.6 GET /Hips/Hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/Hips/ 200 0 64 3479
+2024-03-26 04:22:32 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 22072
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-26 05:20:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-26 05:20:46 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 0 64 370
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-26 05:54:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-26 05:54:36 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 23104
+2024-03-26 06:04:03 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 189
+2024-03-26 06:05:31 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 995 130
+2024-03-26 06:05:31 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 0 1
+2024-03-26 06:08:26 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 0 169863
+2024-03-26 06:12:25 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:12:28 192.168.1.6 GET /hips/ - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) - 200 0 0 1
+2024-03-26 06:12:28 192.168.1.6 GET /image/a1vst-f8eju-001.ico - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 06:12:28 192.168.1.6 GET /hips/hips.js - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 06:12:28 192.168.1.6 GET /hips/update.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 06:12:28 192.168.1.6 GET /hips/lsbd.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 06:13:19 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:13:45 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:14:36 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:15:19 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:16:22 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:17:21 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:18:05 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:20:04 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:20:50 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 304 0 0 0
+2024-03-26 06:22:45 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:23:17 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:23:43 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:24:46 192.168.1.6 OPTIONS /video/跳舞视频.mp4 - 80 - 192.168.1.6 Microsoft-WebDAV-MiniRedir/10.0.25997 - 200 0 0 0
+2024-03-26 06:25:22 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) - 200 0 995 34846
+2024-03-26 06:26:10 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:27:28 192.168.1.6 GET /Videos/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 404 0 2 1
+2024-03-26 06:27:28 192.168.1.6 GET /Videos/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 404 0 2 0
+2024-03-26 06:27:28 192.168.1.6 GET /Videos/跳舞视频.mp4 - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) - 404 0 2 0
+2024-03-26 06:27:35 192.168.1.6 GET /Videos/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 404 0 2 0
+2024-03-26 06:27:35 192.168.1.6 GET /Videos/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 404 0 2 0
+2024-03-26 06:27:35 192.168.1.6 GET /Videos/跳舞视频.mp4 - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) - 404 0 2 0
+2024-03-26 06:27:42 192.168.1.6 GET /Video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 995 104
+2024-03-26 06:27:42 192.168.1.6 GET /Video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 0 1
+2024-03-26 06:30:39 192.168.1.6 GET /Video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 0 171757
+2024-03-26 06:31:38 192.168.1.6 GET /Video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 304 0 0 0
+2024-03-26 06:32:08 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 304 0 0 0
+2024-03-26 06:32:48 192.168.1.6 OPTIONS /video/跳舞视频.mp4 - 80 - 192.168.1.6 Microsoft-WebDAV-MiniRedir/10.0.25997 - 200 0 0 0
+2024-03-26 06:33:07 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) - 200 0 995 17565
+2024-03-26 06:33:22 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:33:56 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 995 135
+2024-03-26 06:33:56 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 0 1
+2024-03-26 06:34:44 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:36:54 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 0 170506
+2024-03-26 06:38:19 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 995 108
+2024-03-26 06:38:19 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 0 1
+2024-03-26 06:39:25 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 995 57766
+2024-03-26 06:39:36 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:39:36 192.168.1.6 GET /hips/lsbd.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip/hips/lsbd.txt 200 0 0 0
+2024-03-26 06:39:36 192.168.1.6 GET /hips/lsbd.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip/hips/lsbd.txt 200 0 0 0
+2024-03-26 06:39:36 192.168.1.6 GET /hips/update.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip/hips/update.txt 200 0 0 0
+2024-03-26 06:39:57 192.168.1.6 GET /hips/ - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) - 200 0 0 0
+2024-03-26 06:39:57 192.168.1.6 GET /image/a1vst-f8eju-001.ico - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 06:39:57 192.168.1.6 GET /hips/hips.js - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 06:39:57 192.168.1.6 GET /hips/update.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 06:39:57 192.168.1.6 GET /hips/lsbd.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 06:40:04 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 06:40:04 192.168.1.6 GET /styels.css - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/ 200 0 0 0
+2024-03-26 06:40:04 192.168.1.6 GET /all.js - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/ 200 0 0 0
+2024-03-26 06:40:10 192.168.1.6 GET /image/index.html - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/ 200 0 0 0
+2024-03-26 06:40:10 192.168.1.6 GET /image/1.png - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/image/index.html 200 0 0 0
+2024-03-26 06:40:10 192.168.1.6 GET /image/1.jpg - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/image/index.html 200 0 0 1
+2024-03-26 06:40:10 192.168.1.6 GET /image/10.png - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/image/index.html 200 0 0 4
+2024-03-26 06:40:10 192.168.1.6 GET /image/1.webp - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/image/index.html 200 0 0 2
+2024-03-26 06:40:10 192.168.1.6 GET /image/4.png - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/image/index.html 200 0 0 2
+2024-03-26 06:40:10 192.168.1.6 GET /image/4.jpg - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/image/index.html 200 0 0 1
+2024-03-26 06:40:10 192.168.1.6 GET /image/3.jpg - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/image/index.html 200 0 0 0
+2024-03-26 06:40:10 192.168.1.6 GET /image/11.png - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/image/index.html 200 0 0 1
+2024-03-26 06:40:10 192.168.1.6 GET /image/3.png - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/image/index.html 200 0 0 2
+2024-03-26 06:40:10 192.168.1.6 GET /image/2.jpg - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/image/index.html 200 0 0 0
+2024-03-26 06:40:11 192.168.1.6 GET /image/5.png - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/image/index.html 200 0 0 2
+2024-03-26 06:40:13 192.168.1.6 GET /image/6.png - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/image/index.html 200 0 0 1
+2024-03-26 06:40:16 192.168.1.6 GET /image/7.png - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/image/index.html 200 0 0 6
+2024-03-26 06:40:18 192.168.1.6 GET /image/8.png - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/image/index.html 200 0 0 1
+2024-03-26 06:40:18 192.168.1.6 GET /image/9.png - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/image/index.html 200 0 0 2
+2024-03-26 06:41:21 192.168.1.6 GET /image/2.png - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/image/index.html 200 0 0 70909
+2024-03-26 06:43:49 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:44:04 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:45:08 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:46:09 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:46:13 192.168.1.6 GET /hips/ - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) - 200 0 0 0
+2024-03-26 06:46:13 192.168.1.6 GET /image/a1vst-f8eju-001.ico - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 06:46:13 192.168.1.6 GET /hips/hips.js - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 06:46:13 192.168.1.6 GET /hips/lsbd.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 06:46:13 192.168.1.6 GET /hips/update.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 06:46:25 192.168.1.6 GET /hips/hips.js - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 06:47:07 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:48:28 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 995 116
+2024-03-26 06:48:28 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 0 1
+2024-03-26 06:51:26 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 0 171699
+2024-03-26 06:52:23 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 06:52:23 192.168.1.6 GET /hips/lsbd.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip/hips/lsbd.txt 200 0 0 0
+2024-03-26 06:52:23 192.168.1.6 GET /hips/lsbd.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip/hips/lsbd.txt 200 0 0 0
+2024-03-26 06:52:23 192.168.1.6 GET /hips/update.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip/hips/update.txt 200 0 0 0
+2024-03-26 06:53:16 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 995 100
+2024-03-26 06:53:16 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 0 1
+2024-03-26 06:53:45 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 995 113
+2024-03-26 06:53:45 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 0 1
+2024-03-26 06:56:45 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 0 170779
+2024-03-26 06:57:11 192.168.1.6 GET /hips/ - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) - 200 0 0 0
+2024-03-26 06:57:11 192.168.1.6 GET /image/a1vst-f8eju-001.ico - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 06:57:11 192.168.1.6 GET /hips/hips.js - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 06:57:11 192.168.1.6 GET /hips/lsbd.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 06:57:11 192.168.1.6 GET /hips/update.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 1
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-26 07:41:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-26 07:41:44 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 19086
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-26 08:56:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-26 08:56:46 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 21118
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-26 09:25:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-26 09:25:10 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 0 995 401
+2024-03-26 09:27:25 192.168.1.6 GET /robots.txt - 80 - 192.168.1.6 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) - 200 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-26 10:18:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-26 10:18:40 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 24083
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-26 10:50:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-26 10:50:56 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 - 200 0 0 602
+2024-03-26 10:50:56 192.168.1.6 GET /all.js - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 3
+2024-03-26 10:50:56 192.168.1.6 GET /styels.css - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 8
+2024-03-26 10:58:24 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 206 0 0 7
+2024-03-26 10:58:25 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 206 0 995 179
+2024-03-26 10:58:36 192.168.1.6 GET /favicon.ico - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 9
+2024-03-26 10:59:05 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 206 0 995 29127
+2024-03-26 11:09:31 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 1
+2024-03-26 11:09:35 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 11:09:40 192.168.1.6 GET /image/a1vst-f8eju-001.ico - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 2
+2024-03-26 11:09:40 192.168.1.6 GET /hips/hips.js - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 11:09:40 192.168.1.6 GET /hips/lsbd.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 304 0 0 0
+2024-03-26 11:09:40 192.168.1.6 GET /hips/update.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 304 0 0 0
+2024-03-26 11:24:34 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 22127
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-26 12:04:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-26 12:04:43 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 422
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-26 12:28:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-26 12:28:57 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 24065
+2024-03-26 12:30:28 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 64 1964
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-26 13:23:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-26 13:23:55 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 0 64 526
+2024-03-26 13:33:13 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 - 200 0 0 190
+2024-03-26 13:33:13 192.168.1.6 GET /styels.css - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 0
+2024-03-26 13:33:13 192.168.1.6 GET /all.js - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 1
+2024-03-26 13:33:13 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 206 0 995 67
+2024-03-26 13:33:13 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 206 0 0 2
+2024-03-26 13:33:19 192.168.1.6 GET /logs - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 301 0 0 2
+2024-03-26 13:33:19 192.168.1.6 GET /logs/ - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 - 200 0 0 8
+2024-03-26 13:33:19 192.168.1.6 GET /logs/log.js - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/logs/ 200 0 0 9
+2024-03-26 13:33:20 192.168.1.6 GET /logs/w3svc1/u_ex240326.log - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/logs/ 200 0 0 8
+2024-03-26 13:33:41 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 1
+2024-03-26 13:34:30 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 13:35:11 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 13:35:17 192.168.1.6 GET /hips/ - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) - 200 0 0 1
+2024-03-26 13:35:17 192.168.1.6 GET /image/a1vst-f8eju-001.ico - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 1
+2024-03-26 13:35:17 192.168.1.6 GET /hips/hips.js - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 13:35:17 192.168.1.6 GET /hips/lsbd.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 13:35:17 192.168.1.6 GET /hips/update.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 13:35:57 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 13:36:37 192.168.1.6 GET /hips/Hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 22163
+2024-03-26 13:43:13 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 995 99
+2024-03-26 13:43:13 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 0 2
+2024-03-26 13:44:10 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 NSPlayer/12.00.25997.1000+WMFSDK/12.00.25997.1000 - 206 0 995 50840
+2024-03-26 13:47:40 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 1
+2024-03-26 13:47:44 192.168.1.6 GET /image/a1vst-f8eju-001.ico - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 13:47:44 192.168.1.6 GET /hips/hips.js - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) https://4l8511a292.oicp.vip/hips/ 200 0 0 0
+2024-03-26 13:47:53 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-26 13:47:53 192.168.1.6 GET /hips/lsbd.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip/hips/lsbd.txt 200 0 0 0
+2024-03-26 13:47:53 192.168.1.6 GET /hips/lsbd.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip/hips/lsbd.txt 200 0 0 0
+2024-03-26 13:47:53 192.168.1.6 GET /hips/update.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip/hips/update.txt 200 0 0 1
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-26 14:26:47
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-26 14:26:47 192.168.1.6 GET /robots.txt - 80 - 192.168.1.6 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/116.0.1938.76+Safari/537.36 - 200 0 0 241
+2024-03-26 14:26:52 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm)+Chrome/116.0.1938.76+Safari/537.36 - 200 0 0 189
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-26 14:42:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-26 14:42:52 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 19228

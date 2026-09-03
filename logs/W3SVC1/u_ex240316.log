@@ -1,0 +1,111 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-16 05:49:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-16 05:49:08 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 782
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-16 06:08:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-16 06:08:20 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 20133
+2024-03-16 06:12:38 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 1
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-16 06:45:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-16 06:45:59 192.168.1.6 GET /pifu/1.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.11+(KHTML,+like+Gecko)+Chrome/23.0.1271.95+Safari/537.11 https://github.com/jonafanho/Slideshow 304 0 0 280
+2024-03-16 06:46:52 192.168.1.6 HEAD /hips/Hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/114.0.0.0+Safari/537.36+Edg/114.0.1823.82 - 200 0 0 4
+2024-03-16 06:47:14 192.168.1.6 GET /hips/Hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/115.0.0.0+Safari/537.36+OPR/100.0.0.0 - 200 0 0 21156
+2024-03-16 06:51:19 192.168.1.6 GET /pifu/1.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.11+(KHTML,+like+Gecko)+Chrome/23.0.1271.95+Safari/537.11 https://github.com/jonafanho/Slideshow 304 0 0 1
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-16 07:10:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-16 07:10:05 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 20166
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-16 07:30:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-16 07:30:14 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 584
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-16 07:53:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-16 07:53:07 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 598
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-16 08:16:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-16 08:16:09 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 20089
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-16 08:53:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-16 08:53:45 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 581
+2024-03-16 08:55:35 192.168.1.6 GET /pifu/1.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.11+(KHTML,+like+Gecko)+Chrome/23.0.1271.95+Safari/537.11 https://github.com/jonafanho/Slideshow 200 0 0 1
+2024-03-16 09:01:51 192.168.1.6 GET /pifu/1.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.11+(KHTML,+like+Gecko)+Chrome/23.0.1271.95+Safari/537.11 https://github.com/jonafanho/Slideshow 304 0 0 1
+2024-03-16 09:02:04 192.168.1.6 GET /pifu/1.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.11+(KHTML,+like+Gecko)+Chrome/23.0.1271.95+Safari/537.11 https://github.com/jonafanho/Slideshow 304 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-16 09:17:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-16 09:17:49 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 21108
+2024-03-16 09:19:27 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 0 995 223
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-16 09:54:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-16 09:54:37 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 585
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-16 10:19:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-16 10:19:11 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 24094
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-16 11:20:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-16 11:20:36 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 23071
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-16 11:58:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-16 11:58:39 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 432
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-16 12:33:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-16 12:33:45 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 447
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-16 12:59:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-16 12:59:43 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 440
+2024-03-16 13:05:25 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 1
+2024-03-16 13:05:44 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+2024-03-16 13:05:57 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-16 13:22:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-16 13:22:22 192.168.1.6 GET /jquery-3.3.1.min.js - 80 - 192.168.1.6 Go-http-client/1.1 - 404 0 2 2
+2024-03-16 13:25:40 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 23145
+2024-03-16 13:25:43 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 - 200 0 0 2
+2024-03-16 13:25:43 192.168.1.6 GET /tv/cctv.m3u - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 http://192.168.1.6/ 206 0 0 4
+2024-03-16 13:25:43 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 - 200 0 0 1
+2024-03-16 13:25:46 192.168.1.6 GET /logs - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 http://192.168.1.6/ 301 0 0 3
+2024-03-16 13:25:46 192.168.1.6 GET /logs/ - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 http://192.168.1.6/ 200 0 0 2
+2024-03-16 13:25:47 192.168.1.6 GET /favicon.ico - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 http://192.168.1.6/logs/ 200 0 0 3
+2024-03-16 13:25:49 192.168.1.6 GET /logs/w3svc1/u_ex240316.log - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 http://192.168.1.6/logs/ 200 0 0 2
+2024-03-16 13:26:18 192.168.1.6 GET /logs/w3svc1/u_ex240316.log - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 http://192.168.1.6/logs/ 304 0 0 0
+2024-03-16 13:26:33 192.168.1.6 GET /jquery-3.3.1.min.js - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 - 404 0 2 0
+2024-03-16 13:26:41 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 http://192.168.1.6/ 304 0 0 1
+2024-03-16 13:26:41 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 - 200 0 0 0
+2024-03-16 13:39:02 192.168.1.6 GET /image/1.jpg - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 1
+2024-03-16 13:39:02 192.168.1.6 GET /image/1.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 0
+2024-03-16 13:39:38 192.168.1.6 GET /image/2.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 35147
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-16 14:27:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-16 14:27:42 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) - 200 0 0 24064

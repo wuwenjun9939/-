@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>日志查看器</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        #log-container {
+            width: 100%;
+            height: 500;
+        }
+    </style>
+</head>
+<body>
+    <h1>日志查看器</h1>
+    <a href="https://4l8511a292.oicp.vip" target="_top">主页</a>
+    <a id="reload"><button>刷新</button></a>
+    <a href="./ftp.html">ftp日志</a>
+    <p>日志文件：<a href="#" id="log-file-link">点击查看当日网站日志</a></p>
+    <div id="log-container">
+        <iframe id="log-frame" width="100%" height="100%" border="none"></iframe>
+    </div>
+    <script src="log.js"></script>
+</body>
+</html>

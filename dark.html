@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>暗黑模式切换示例</title>
+    <style>
+        body {
+            transition: background-color 0.5s;
+        }
+        .dark-mode {
+            background-color: #333;
+            color: #fff;
+        }
+        .toggle-button {
+            width: 40px;
+            height: 40px;
+            background-color: #fff;
+            border: none;
+            cursor: pointer;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .toggle-button svg {
+            width: 24px;
+            height: 24px;
+            fill: #000;
+        }
+    </style>
+</head>
+    <body>
+        <div class="toggle-button" id="toggle-button">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.05 2.53L5.82 21H12v-3.73zM12 5.9c1.19 0 2.2.98 2.2 2.2s-.98 2.2-2.2 2.2-2.2-.98-2.2-2.2.98-2.2 2.2-2.2zm0 9.9c-1.19 0-2.2-.98-2.2-2.2s.98-2.2 2.2-2.2 2.2.98 2.2 2.2-.98 2.2-2.2 2.2z"/></svg>
+        </div>
+        <div id="content">
+            <h1>暗黑模式切换示例</h1>
+            <p>点击灯泡图标切换暗黑模式。</p>
+        </div>
+        <script src="dark-mode.js"></script>
+    </body>
+</html>

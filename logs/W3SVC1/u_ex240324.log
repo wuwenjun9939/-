@@ -1,0 +1,58 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-24 09:19:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-24 09:19:12 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 0 64 552
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-24 13:19:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-24 13:19:27 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 481
+2024-03-24 13:20:13 192.168.1.6 GET /hips/hipsls.exe - 80 - 192.168.1.6 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 0 995 232
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-24 14:06:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-24 14:06:10 192.168.1.6 GET /hips/lsbd.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip/hips/lsbd.txt 200 0 0 252
+2024-03-24 14:06:16 192.168.1.6 GET /hips/update.txt - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.2;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+Tablet+PC+2.0;+Media+Center+PC+6.0) - 200 0 0 0
+2024-03-24 14:13:30 192.168.1.6 GET /jquery-3.3.1.min.js - 80 - 192.168.1.6 Go-http-client/1.1 - 404 0 2 2
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-03-24 14:38:47
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-03-24 14:38:47 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 - 200 0 0 609
+2024-03-24 14:38:47 192.168.1.6 GET /styels.css - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 1
+2024-03-24 14:38:47 192.168.1.6 GET /all.js - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 1
+2024-03-24 14:38:47 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 206 0 995 169
+2024-03-24 14:38:47 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 206 0 0 1
+2024-03-24 14:38:55 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 206 0 995 1927
+2024-03-24 14:38:57 192.168.1.6 GET /favicon.ico - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 1
+2024-03-24 14:39:32 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 206 0 995 34454
+2024-03-24 14:41:33 192.168.1.6 GET /image/1.jpg - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 1
+2024-03-24 14:41:45 192.168.1.6 GET /image/1.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 1
+2024-03-24 14:41:57 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 206 0 995 100814
+2024-03-24 14:41:59 192.168.1.6 GET /image/2.jpg - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 2
+2024-03-24 14:42:15 192.168.1.6 GET /image/3.jpg - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 1
+2024-03-24 14:42:25 192.168.1.6 GET /image/2.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 64 15107
+2024-03-24 14:42:28 192.168.1.6 GET /image/3.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 2
+2024-03-24 14:42:40 192.168.1.6 GET /image/4.jpg - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 1
+2024-03-24 14:42:52 192.168.1.6 GET /image/4.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 2
+2024-03-24 14:43:11 192.168.1.6 GET /image/5.jpg - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 1
+2024-03-24 14:43:36 192.168.1.6 GET /video/跳舞视频.mp4 - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 206 0 0 67549
+2024-03-24 15:59:59 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 - 304 0 0 2
+2024-03-24 15:59:59 192.168.1.6 GET /styels.css - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 304 0 0 1
+2024-03-24 15:59:59 192.168.1.6 GET /all.js - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 304 0 0 1
+2024-03-24 15:59:59 192.168.1.6 GET /image/2.jpg - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 304 0 0 1
+2024-03-24 15:59:59 192.168.1.6 GET /image/2.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 206 0 0 0
+2024-03-24 15:59:59 192.168.1.6 GET /image/2.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 206 0 0 18401
+2024-03-24 15:59:59 192.168.1.6 GET /image/3.jpg - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 304 0 0 1
+2024-03-24 15:59:59 192.168.1.6 GET /image/4.jpg - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 304 0 0 0
+2024-03-24 15:59:59 192.168.1.6 GET /image/5.jpg - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 304 0 0 0
+2024-03-24 15:59:59 192.168.1.6 GET /image/5.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 1
+2024-03-24 15:59:59 192.168.1.6 GET /image/6.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 1
+2024-03-24 15:59:59 192.168.1.6 GET /image/7.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 1
+2024-03-24 15:59:59 192.168.1.6 GET /image/8.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 1
+2024-03-24 15:59:59 192.168.1.6 GET /image/9.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 1
+2024-03-24 15:59:59 192.168.1.6 GET /image/10.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 1
+2024-03-24 15:59:59 192.168.1.6 GET /image/11.png - 80 - 192.168.1.6 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/124.0.0.0+Safari/537.36+Edg/124.0.0.0 https://4l8511a292.oicp.vip/ 200 0 0 2
+2024-03-24 15:59:59 192.168.1.6 GET / - 80 - 192.168.1.6 Mozilla/4.0+(compatible;+MSIE+9.0;+Windows+NT+6.1) https://4l8511a292.oicp.vip 200 0 0 1

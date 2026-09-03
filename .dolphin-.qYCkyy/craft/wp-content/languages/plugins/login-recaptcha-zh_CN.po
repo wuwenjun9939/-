@@ -1,0 +1,153 @@
+# Translation of Plugins - Login No Captcha reCAPTCHA - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Login No Captcha reCAPTCHA - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-04 14:32:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Login No Captcha reCAPTCHA - Stable (latest release)\n"
+
+#: admin.php:77
+msgid "Disable CSS"
+msgstr "禁用CSS"
+
+#: login-nocaptcha.php:267
+msgid "Captcha bypassed by whitelist for ip address %s"
+msgstr "IP地址%s的白名单绕过验证码"
+
+#: admin.php:53
+msgid "Whitelist IP ( 1 per line )"
+msgstr "IP白名单（每行1个）"
+
+#: login-nocaptcha.php:281
+msgid "Login NoCaptcha was bypassed on login page: %s."
+msgstr "Login NoCaptcha 在登录页面上被绕过: %s."
+
+#. Plugin Name of the plugin
+msgid "Login No Captcha reCAPTCHA (Google)"
+msgstr "Login No Captcha reCAPTCHA (Google)"
+
+#. Description of the plugin
+msgid "Adds a Google CAPTCHA checkbox to the login, registration, and forgot password forms, thwarting automated hacking attempts"
+msgstr "在登录，注册和忘记密码表单中添加Google CAPTCHA复选框，以阻止自动的黑客攻击"
+
+#: login-nocaptcha.php:187
+msgid "The secret parameter is missing."
+msgstr "缺少密钥参数"
+
+#: login-nocaptcha.php:188
+msgid "The secret parameter is invalid or malformed."
+msgstr "密钥参数无效或格式错误。"
+
+#: login-nocaptcha.php:189
+msgid "The response parameter is missing."
+msgstr "缺少响应参数。"
+
+#: login-nocaptcha.php:190
+msgid "The response parameter is invalid or malformed."
+msgstr "响应参数无效或格式错误。"
+
+#: login-nocaptcha.php:343 login-nocaptcha.php:351
+msgid "The response from Google was not valid."
+msgstr "来自谷歌的响应无效。"
+
+#: admin.php:14
+msgid "Site Key"
+msgstr "网站密钥"
+
+#: admin.php:19
+msgid "Secret Key"
+msgstr "密钥"
+
+#: admin.php:83
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: admin.php:98
+msgid "Open a completely different browser than this one"
+msgstr "打开与此浏览器完全不同的浏览器"
+
+#: admin.php:93
+msgid "Next Steps"
+msgstr "下一步"
+
+#: login-nocaptcha.php:74
+msgid "Login NoCatpcha Options"
+msgstr "Login NoCatpcha 选项"
+
+#: admin.php:6
+msgid "Login NoCaptcha Options"
+msgstr "Login NoCaptcha 选项"
+
+#: login-nocaptcha.php:327
+msgid "Login NoCaptcha is not working. <a href=\"%s\">Please check your settings</a>. The message from Google was: %s"
+msgstr "Login NoCaptcha无法正常工作。 <a href=\"%s\">请检查您的设置</a>。 来自Google的消息是：%s"
+
+#: login-nocaptcha.php:343 login-nocaptcha.php:351
+msgid "Login NoCaptcha is not working. <a href=\"%s\">Please check your settings</a>."
+msgstr "Login NoCaptcha 无法正常工作。 <a href=\"%s\">请检查您的设置</a>。"
+
+#: login-nocaptcha.php:52 login-nocaptcha.php:93 login-nocaptcha.php:101
+msgid "Login NoCaptcha has not been properly configured. <a href=\"%s\">Click here</a> to configure."
+msgstr "Login NoCaptcha 尚未正确配置。 <a href=\"%s\">单击此处</a>进行配置。"
+
+#: login-nocaptcha.php:305
+msgid "Login NoCaptcha fell back to using cURL instead of wp_remote_post(). The error message was: %s."
+msgstr "Login NoCaptcha回到使用cURL而不是wp_remote_post()。错误信息为:%s。"
+
+#: login-nocaptcha.php:74
+msgid "Login NoCaptcha"
+msgstr "Login NoCaptcha"
+
+#: admin.php:95
+msgid "If you see an error message above, check your keys before proceeding."
+msgstr "如果您在上面看到错误消息，请在继续操作之前检查密钥。"
+
+#: admin.php:103
+msgid "If you have any problems logging in, click \"%s\" above and/or deactivate the plugin."
+msgstr "如果您在登录时遇到任何问题，请单击上方的\"%s\" 和/或 停用该插件。"
+
+#: admin.php:99
+msgid "If you are logged in on that new browser, log out"
+msgstr "如果您使用该新浏览器登录，请注销"
+
+#: admin.php:96
+msgid "If the reCAPTCHA displays correctly above, proceed as follows:"
+msgstr "如果reCAPTCHA正确显示在上方，请按照下列步骤操作："
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/login-recaptcha/"
+msgstr "https://wordpress.org/plugins/login-recaptcha/"
+
+#: admin.php:90
+msgid "Example"
+msgstr "例子"
+
+#: admin.php:102
+msgid "Do <em>not</em> close this window or log out from this browser until you are confident that reCAPTCHA is working and you will be able to log in again. <br /><strong>You have been warned</strong>."
+msgstr "<em>不要</em>关闭此窗口或从该浏览器注销，直到您确信reCAPTCHA可以正常工作并且您将能够再次登录。 <br /> <strong>您已被警告</strong>。"
+
+#: admin.php:85 admin.php:103
+msgid "Delete Keys and Disable"
+msgstr "删除密钥并禁用"
+
+#: admin.php:100
+msgid "Attempt to log in to your site admin from that new browser"
+msgstr "尝试从该新浏览器登录到您的站点管理"
+
+#: login-nocaptcha.php:317 login-nocaptcha.php:320 login-nocaptcha.php:357
+#: login-nocaptcha.php:360
+msgid "<strong>ERROR</strong>&nbsp;: Please check the ReCaptcha box."
+msgstr "<strong>错误</strong>：请选中“验证码”框。"
+
+#: login-nocaptcha.php:334 login-nocaptcha.php:337
+msgid "<strong>ERROR</strong>&nbsp;: Incorrect ReCaptcha, please try again."
+msgstr "<strong>错误</strong>：错误的验证码，请重试。"
+
+#: admin.php:11
+msgid "<a href=\"%s\" target=\"_blank\">Click here</a> to create or view keys for Google NoCaptcha."
+msgstr "<a href=\"%s\" target=\"_blank\">单击此处</a>以创建或查看Google NoCaptcha的密钥。"

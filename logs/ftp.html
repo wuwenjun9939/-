@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ftp日志查看器</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        #log-container {
+            width: 100%;
+            height: 500;
+        }
+    </style>
+</head>
+<body>
+    <h1>ftp日志查看器</h1>
+    <a href="./index.html" target="_top">返回</a>
+    <a id="reload"><button>刷新</button></a>
+    <p>ftp日志文件：<a href="#" id="log-file-link">点击查看当日网站的ftp日志</a></p>
+    <div id="log-container">
+        <iframe id="log-frame" width="100%" height="100%" border="none"></iframe>
+    </div>
+    <script src="ftplog.js"></script>
+</body>
+</html>

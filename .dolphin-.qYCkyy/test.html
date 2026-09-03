@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>示例网站</title>
+</head>
+<body>
+    <h1>欢迎来到我的网站</h1>
+    <p>这是一个按钮示例：</p>
+    <div id="button-container"></div>
+    <script>
+        // 检测浏览器内核 
+        var isIE6 = false;
+        var isChrome = false;
+        var userAgent = navigator.userAgent.toLowerCase();
+        if (userAgent.indexOf('msie 6.') !== -1) {
+            isIE6 = true;
+        } else if (userAgent.indexOf('chrome/') !== -1) {
+            isChrome = true;
+        }
+ 
+        // 根据浏览器内核渲染页面 
+        if (isChrome) {
+            // Chrome内核，添加一个按钮 
+            var button = document.createElement('button');
+            button.textContent = '点击这里';
+            button.addEventListener('click', function () {
+                alert('您正在使用Chrome内核浏览器！');
+            });
+            document.getElementById('button-container').appendChild(button);
+        } else if (isIE6) {
+            // IE6内核，添加一个链接 
+            var link = document.createElement('a');
+            link.href = '#';
+            link.textContent = '点击这里';
+            link.addEventListener('click', function (event) {
+                event.preventDefault();
+                alert('您正在使用IE6内核浏览器！');
+            });
+            document.getElementById('button-container').appendChild(link);
+        } else {
+            // 其他浏览器，添加一个普通链接 
+            var link = document.createElement('a');
+            link.href = '#';
+            link.textContent = '点击这里';
+            document.getElementById('button-container').appendChild(link);
+        }
+    </script>
+</body>
+</html>
