@@ -64,3 +64,6 @@ document.getElementById('music').addEventListener('click', music)
 document.getElementById('toggle-button').addEventListener('click', function() {
     document.getElementById('content').classList.toggle('dark-mode');
 });
+document.getElementById("qp").onclick = () => {
+    document.documentElement.requestFullscreen();
+};
